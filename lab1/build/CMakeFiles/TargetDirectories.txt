@@ -1,0 +1,4 @@
+/home/glebbutorin/miniscience-4th-term/2025/01_meshes/cpp/lab1/build/CMakeFiles/1.dir
+/home/glebbutorin/miniscience-4th-term/2025/01_meshes/cpp/lab1/build/CMakeFiles/2.dir
+/home/glebbutorin/miniscience-4th-term/2025/01_meshes/cpp/lab1/build/CMakeFiles/edit_cache.dir
+/home/glebbutorin/miniscience-4th-term/2025/01_meshes/cpp/lab1/build/CMakeFiles/rebuild_cache.dir
