@@ -1,0 +1,3 @@
+/home/glebbutorin/Semestr4/lab2/build/CMakeFiles/godzilla.dir
+/home/glebbutorin/Semestr4/lab2/build/CMakeFiles/edit_cache.dir
+/home/glebbutorin/Semestr4/lab2/build/CMakeFiles/rebuild_cache.dir
