@@ -1,0 +1,4 @@
+/home/glebbutorin/Semestr4/lab3/build/CMakeFiles/navier-stokes.dir
+/home/glebbutorin/Semestr4/lab3/build/CMakeFiles/circle_gmsh.dir
+/home/glebbutorin/Semestr4/lab3/build/CMakeFiles/edit_cache.dir
+/home/glebbutorin/Semestr4/lab3/build/CMakeFiles/rebuild_cache.dir
