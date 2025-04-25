@@ -1,0 +1,3 @@
+/home/glebbutorin/Semestr4/microproject/Mountain/build/CMakeFiles/meshes.dir
+/home/glebbutorin/Semestr4/microproject/Mountain/build/CMakeFiles/edit_cache.dir
+/home/glebbutorin/Semestr4/microproject/Mountain/build/CMakeFiles/rebuild_cache.dir
